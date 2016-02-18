@@ -1,0 +1,27 @@
+form {
+    text-align: center;
+    font-size: 16pt;
+    width: 400px;
+    margin: 20px auto;
+}
+
+/*form [placeholder] {
+    text-align: right;
+}*/
+
+a {
+    margin-right: 60px;
+}
+
+body {
+    max-width: 980px;
+}
+
+.highslide-caption img{
+    margin: 0 100px;
+}
+
+.highslide img{
+    margin-top: 50px;
+}
+
